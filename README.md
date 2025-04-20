@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rahulshendre789@gmail.com**
 
-- ⚡ Fun fact **I can do 40 push ups in a row**
+- ⚡ Fun fact **I can do 100 push ups in a row**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
