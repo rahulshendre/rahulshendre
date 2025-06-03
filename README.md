@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Shendre</h1>
 <h3 align="center">I like to code and learn new stuff....</h3>
 
-- 🌱 I’m currently learning **Three.js a 3D framework and Paper.js a 2D framework**
+- 🌱 I’m currently learning **Building a project for PlanetRead - A subtitle plugin for Adobe Premiere Pro**
 
 - 📫 How to reach me **rahulshendre789@gmail.com**
 
