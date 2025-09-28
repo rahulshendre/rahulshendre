@@ -7,8 +7,6 @@
 
 - ⚡ Fun fact **I can do 100 push ups in a row**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulshendre&label=Profile%20views&color=0e75b6&style=flat" alt="rahulshendre" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-shendre-4bb11120b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-shendre-4bb11120b" height="30" width="40" /></a>
