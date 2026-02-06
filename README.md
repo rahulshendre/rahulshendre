@@ -14,7 +14,6 @@ The app is live on:
 - [Amazon Appstore](https://www.amazon.com/BookBox-Inc-English/dp/B007XK02OO)  
 - [App store](https://apps.apple.com/in/app/bookbox/id375316138)
 
-It will soon be available on the **Apple App Store**.  
 The application currently has **1,000+ daily active users**.
 
 ---
