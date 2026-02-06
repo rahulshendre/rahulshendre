@@ -12,6 +12,7 @@ At PlanetRead, I also migrated a mobile application completely to **React Native
 The app is live on:
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.bookbox.anibooks&hl=en_IN)  
 - [Amazon Appstore](https://www.amazon.com/BookBox-Inc-English/dp/B007XK02OO)  
+- [App store](https://apps.apple.com/in/app/bookbox/id375316138)
 
 It will soon be available on the **Apple App Store**.  
 The application currently has **1,000+ daily active users**.
