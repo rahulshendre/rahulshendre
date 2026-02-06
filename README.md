@@ -26,7 +26,7 @@ The application currently has **1,000+ daily active users**.
 ---
 
 ### A Bit About Me
-- Finance enthusiast  
+- Finance nerd  
 - Can do 100 push-ups in one go  
 - Enjoy good coffee  
 
