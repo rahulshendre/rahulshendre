@@ -26,7 +26,7 @@ I am an active member to **[PipeCD](https://github.com/pipe-cd/pipecd)**, a CNCF
 
 ### What I Work With
 
-- Go (cloud-native tooling, plugin development)
+- Go
 - Full-stack development  
 - Cloud-native technologies & DevOps  
 - C / C++ for fundamentals and data structures & algorithms  
