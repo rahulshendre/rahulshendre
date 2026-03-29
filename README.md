@@ -20,8 +20,7 @@ I also built an API normalisation layer and a practice mode for [cricmaths](http
 
 ---
 
-I am an active contributor to **[PipeCD](https://github.com/pipe-cd/pipecd)**, a CNCF sandbox project for GitOps-based continuous delivery — 12+ merged PRs across docs, user guides, and fixes.  
-[View contributions →](https://github.com/pipe-cd/pipecd/pulls?q=is%3Apr+author%3Arahulshendre+is%3Amerged)
+I am an active member to **[PipeCD](https://github.com/pipe-cd/pipecd)**, a CNCF sandbox project for GitOps-based continuous delivery :D 
 
 ---
 
